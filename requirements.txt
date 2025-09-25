@@ -1,4 +1,4 @@
-# packages in environment at C:\Users\jeroe\anaconda3:
+
 #
 # Name                    Version                   Build  Channel
 _anaconda_depends         2024.06             py312_mkl_2  
